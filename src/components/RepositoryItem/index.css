@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.listElement {
+  background-color: #f8f8ff;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 14px;
+  padding: 20px;
+  margin: 12px;
+  width: 200px;
+}
+
+.logos {
+  height: 80px;
+}
+
+.starContainer {
+  display: flex;
+  align-items: center;
+  height: 35px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+
+.forksContainer {
+  display: flex;
+  align-items: center;
+  height: 35px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+
+.issueContainer {
+  display: flex;
+  align-items: center;
+  height: 35px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+
+.sfiLogos {
+  height: 18px;
+  margin-right: 12px;
+}
+
+.textName {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
